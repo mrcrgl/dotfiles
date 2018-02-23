@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-alias goland="open -a WebStorm"
+alias webstorm="open -a WebStorm"
